@@ -41,6 +41,5 @@ The configurations required for these tasks are available in the `workflows/` fo
 - [tdrussell/diffusion-pipe](https://github.com/tdrussell/diffusion-pipe)
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 
-## License
-Specify your preferred license here (e.g., MIT, Apache 2.0, etc.).
+
 

@@ -37,9 +37,6 @@ The configurations required for these tasks are available in the `workflows/` fo
 2. Follow the instructions in `diffusion-pipe` to train the LoRA model.
 3. Use the provided ComfyUI workflows for text-to-video and video-to-video generation.
 
-## Example Results
-(Include sample images or links to generated videos)
-
 ## Acknowledgements
 - [tdrussell/diffusion-pipe](https://github.com/tdrussell/diffusion-pipe)
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
